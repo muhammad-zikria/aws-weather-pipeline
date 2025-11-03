@@ -4,7 +4,7 @@ import os
 # --- SETTINGS ---
 AWS_ACCESS_KEY = "YOUR_AWS_ACCESS_KEY"
 AWS_SECRET_KEY = "YOUR_AWS_SECRET_KEY"
-AWS_S3_BUCKET = "weather-data-zikria"
+AWS_S3_BUCKET = "weather-data-bucket"
 
 # The local file we want to upload
 LOCAL_FILE_PATH = 'weather_data.csv'
@@ -30,4 +30,5 @@ try:
 except FileNotFoundError:
     print(f"Error: The file '{LOCAL_FILE_PATH}' was not found.")
 except Exception as e:
+
     print(f"An error occurred: {e}")
