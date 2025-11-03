@@ -42,6 +42,9 @@ The pipeline follows a standard Extract, Transform, Load (ETL) process:
 
 The pipeline successfully runs, and the data can be queried from the PostgreSQL database to perform analytics.
 
+<img width="1626" height="524" alt="image" src="https://github.com/user-attachments/assets/17461349-e179-4145-bf6d-2bbd4416ea54" />
+
+
 ### 1. Successful Pipeline Execution
 
 The AWS Lambda function runs successfully on its daily schedule, with logs showing each step of the ETL process.
