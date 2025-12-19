@@ -50,7 +50,8 @@ The pipeline successfully runs, and the data can be queried from the PostgreSQL 
 
 The AWS Lambda function runs successfully on its daily schedule, with logs showing each step of the ETL process.
 
-<img width="1613" height="682" alt="Screenshot 2025-11-03 034517" src="https://github.com/user-attachments/assets/91b9104b-ae75-45c8-814e-234b7d8ec9bc" />
+<img width="1075" height="396" alt="image" src="https://github.com/user-attachments/assets/42aa675e-a427-479a-be0b-e998ea90ad99" />
+
 
 
 ### 2. Data Visualization
