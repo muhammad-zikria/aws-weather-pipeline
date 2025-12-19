@@ -42,7 +42,8 @@ The pipeline follows a standard Extract, Transform, Load (ETL) process:
 
 The pipeline successfully runs, and the data can be queried from the PostgreSQL database to perform analytics.
 
-<img width="1626" height="524" alt="image" src="https://github.com/user-attachments/assets/17461349-e179-4145-bf6d-2bbd4416ea54" />
+<img width="989" height="110" alt="image" src="https://github.com/user-attachments/assets/5906d1b4-3672-43c6-bcd7-7329a4f5c0df" />
+
 
 
 ### 1. Successful Pipeline Execution
